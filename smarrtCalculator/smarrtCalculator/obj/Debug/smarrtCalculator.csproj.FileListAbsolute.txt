@@ -1,0 +1,14 @@
+C:\Users\ewvya\Desktop\smarrtCalculator\smarrtCalculator\bin\Debug\smarrtCalculator.exe.config
+C:\Users\ewvya\Desktop\smarrtCalculator\smarrtCalculator\bin\Debug\smarrtCalculator.exe
+C:\Users\ewvya\Desktop\smarrtCalculator\smarrtCalculator\bin\Debug\smarrtCalculator.pdb
+C:\Users\ewvya\Desktop\smarrtCalculator\smarrtCalculator\obj\Debug\smarrtCalculator.csproj.AssemblyReference.cache
+C:\Users\ewvya\Desktop\smarrtCalculator\smarrtCalculator\obj\Debug\smarrtCalculator.Properties.Resources.resources
+C:\Users\ewvya\Desktop\smarrtCalculator\smarrtCalculator\obj\Debug\smarrtCalculator.standart.resources
+C:\Users\ewvya\Desktop\smarrtCalculator\smarrtCalculator\obj\Debug\smarrtCalculator.csproj.GenerateResource.cache
+C:\Users\ewvya\Desktop\smarrtCalculator\smarrtCalculator\obj\Debug\smarrtCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ewvya\Desktop\smarrtCalculator\smarrtCalculator\obj\Debug\smarrtCalculator.exe
+C:\Users\ewvya\Desktop\smarrtCalculator\smarrtCalculator\obj\Debug\smarrtCalculator.pdb
+C:\Users\ewvya\Desktop\smarrtCalculator\smarrtCalculator\obj\Debug\smarrtCalculator.programist.resources
+C:\Users\ewvya\Desktop\smarrtCalculator\smarrtCalculator\obj\Debug\smarrtCalculator.hiddenForm.resources
+C:\Users\ewvya\Desktop\smarrtCalculator\smarrtCalculator\obj\Debug\smarrtCalculator.hiddenForm2.resources
+C:\Users\ewvya\Desktop\smarrtCalculator\smarrtCalculator\obj\Debug\smarrtCalculator.parametrs.resources
